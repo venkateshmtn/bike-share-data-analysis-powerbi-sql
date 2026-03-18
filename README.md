@@ -88,7 +88,6 @@ This project demonstrates how raw data can be transformed into meaningful busine
 
 ## 📬 Contact
 Venkatesh Metan
-+91-9019093764/8861136437
 
 If you have any questions or feedback, feel free to connect!
 
